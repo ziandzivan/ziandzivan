@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://forum.xda-developers.com/m/ziand.950857"><img src="https://img.shields.io/badge/XDA-Profile-yellow?longCache=true&style=flat"> </a>       <a href="https://4pda.to/forum/index.php?showuser=400880"><img src="https://img.shields.io/badge/4PDA-Profile-blue?longCache=true&style=flat"> </a>
-
+<a href="https://forum.xda-developers.com/m/ziand.950857"><img src="https://img.shields.io/badge/XDA-Profile-yellow?longCache=true&style=flat"> </a>       <a href="https://4pda.to/forum/index.php?showuser=400880"><img src="https://img.shields.io/badge/4PDA-Profile-blue?longCache=true&style=flat"> </a>   ![](https://komarev.com/ghpvc/?username=ziandzivan&color=brightgreen&label=Profile+views&style=flat)
